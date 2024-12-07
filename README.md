@@ -7,7 +7,7 @@
 ---
 
 ### 👋 **Hola! Soy Alberto!**
-Soy un desarrollador apasionado especializado en **[frontend/backend/full stack** con experiencia en:
+Soy un desarrollador apasionado especializado en **frontend/backend/full stack** con experiencia en:
 
 - 🛠️ Desarrollo de aplicaciones web modernas usando **Angular**, **JavaScript** y **TypeScript**.  
 - ⚡ Creación de sistemas robustos y escalables con **Java**, **Python** y **PHP**.  
@@ -32,4 +32,4 @@ Soy un desarrollador apasionado especializado en **[frontend/backend/full stack*
 ---
 
 ### 🎨 Inspiración  
-> _"La mejor forma de predecir el futuro es inventarlo."_ — Alan Kay  
+> _"La programación es el arte de contarle a otro humano lo que quieres que la computadora haga."_ — Donald Knuth
