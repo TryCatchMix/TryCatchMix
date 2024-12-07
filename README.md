@@ -1,4 +1,4 @@
-# 💻 **[Alberto Muñoz García]**  
+# 💻 **Alberto Muñoz García**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/amunoz-garcia/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]([https://tu-portfolio.com](https://github.com/TryCatchMix/TryCatchMix.github.io))  
